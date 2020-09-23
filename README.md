@@ -1,8 +1,8 @@
-#### Question Generator #####
+## Question Generator 
 
 
 
-## Working
+# Working
 
 - The algorithm takes a paragraph as input (suggested to take content from curriculum textbooks like NCERT Books) and generates fill-up type multiple choice questions.
 - The algorithm uses Python Keyword Extractor, to determine the most important keywords out of the input text, finds the sentences they are used in and replaces them with a blank to generate the question. 
