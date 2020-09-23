@@ -1,6 +1,4 @@
-# Question Generator 
-
-
+# Automated-MCQ-Generator
 
 ## Working
 
